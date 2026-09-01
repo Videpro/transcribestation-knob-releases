@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>TranscribeStation Knob Helper</title>
-    <link>https://github.com/Videpro/transcribestation-knob-releases</link>
-    <description>Signed stable updates for TranscribeStation Knob Helper.</description>
-    <language>nl</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TranscribeStation Knob Helper</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 01 Sep 2026 11:08:27 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.0-build.1/TranscribeStation-Knob-Helper-0.1.0-1.zip" length="2960980" type="application/octet-stream" sparkle:edSignature="FGfFJmOMY6ybIvEGmVTqjnmqDcdE9fPZ/m9VUJoCeeU9vaawSG5yY4JtW3jFuRDMyYFp2Ks13z640dGdPkS2Cg=="/>
+        </item>
+    </channel>
 </rss>
