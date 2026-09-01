@@ -11,7 +11,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.2-build.3/TranscribeStation-Knob-Helper-0.1.2-3.zip" length="2972471" type="application/octet-stream" sparkle:edSignature="GfxQNPNdQMhZjXqFCHoRCyFYU5yOr4ga+73JfoZ96MrCHTJGahNidBwDtxjtU8OttoSeAZw3w1l7vhShHm8UAg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.2-build.3/TranscribeStation%20Knob%20Helper3-2.delta" sparkle:deltaFrom="2" length="161146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pHlfOR42StvSs8vR67Hw/rg9yKkY6xdsyBbc3NEmcniEEVLiJTyuW1dRsNeKZ2V41GG2d0P4mMskXntTB2TFBw=="/>
+                <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.2-build.3/TranscribeStation.Knob.Helper3-2.delta" sparkle:deltaFrom="2" length="161146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pHlfOR42StvSs8vR67Hw/rg9yKkY6xdsyBbc3NEmcniEEVLiJTyuW1dRsNeKZ2V41GG2d0P4mMskXntTB2TFBw=="/>
             </sparkle:deltas>
         </item>
         <item>
