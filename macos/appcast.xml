@@ -1,51 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>TranscribeStation Knob Helper</title>
+        <title>Transcribe Dial</title>
         <item>
-            <title>0.1.8</title>
-            <pubDate>Wed, 02 Sep 2026 23:41:48 +0200</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Thu, 03 Sep 2026 00:23:32 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.8-build.11/TranscribeStation-Knob-Helper-0.1.8-11.zip" length="3031249" type="application/octet-stream" sparkle:edSignature="dmwEQt+E+7+62m+DkjeBsU+Zaw4J9hPxM19gLb7Q5nQfI7v7r3TsJPgcJxztt4RRDzkOrIp4n7ghTVPfairLDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.8-build.11/TranscribeStation.Knob.Helper11-4.delta" sparkle:deltaFrom="4" length="11418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+0i8L1t2F9XW9k3fzsIVCwDF0f8E2vkV3J3+AdtDZJXlBaAPPVCWGbRImT/oBrUBypco1SYrzVU0fxVKNmamAg=="/>
-                <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.8-build.11/TranscribeStation.Knob.Helper11-3.delta" sparkle:deltaFrom="3" length="452046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sLUjHLsWa6pdyUzRcr2Z5cSVYgV620/PjU4YYMaTP0pc7L7fTU4HzoV5pp6MzeULykcw5m1igucwZ0r/5SVHAQ=="/>
-                <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.8-build.11/TranscribeStation.Knob.Helper11-2.delta" sparkle:deltaFrom="2" length="451658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aD3zp2T3jGJlVWAqsiWtFClIs73YevPhLulZ5HUBw50LLU9FlE3Wts9V8m7g02JlKfJUrMvt2OoXcL1FQIa/Aw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.3</title>
-            <pubDate>Wed, 02 Sep 2026 23:33:26 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.8-build.11/TranscribeStation-Knob-Helper-0.1.3-4.zip" length="3031238" type="application/octet-stream" sparkle:edSignature="LJkrJSkw45oTzWoN6d429p6StoyhSZFe2XfPmwhmYmBDBfAFgrGjv2toxDHyC6UFcqcb4RI+Lq5ZYsQhf/UdAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.3-build.4/TranscribeStation.Knob.Helper4-3.delta" sparkle:deltaFrom="3" length="452582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MwVQHNVBcHHncSdAw1SwLbhlYJ9HHpGT0EhGRgGX6M6R2fR6NzENnCh22eZ2wDP8CAXei7D/BUhAhxQJNshVBg=="/>
-                <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.3-build.4/TranscribeStation.Knob.Helper4-2.delta" sparkle:deltaFrom="2" length="449930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IM+FQXnZ03N0Si01gzvEFbF8cJqKGRPHcUqtmw38F+Iuwql8udc+n68+KyRozUUyAmvFSVhpji0J+5KmBg6sCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.2</title>
-            <pubDate>Wed, 02 Sep 2026 23:32:54 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.8-build.11/TranscribeStation-Knob-Helper-0.1.2-3.zip" length="2972471" type="application/octet-stream" sparkle:edSignature="GfxQNPNdQMhZjXqFCHoRCyFYU5yOr4ga+73JfoZ96MrCHTJGahNidBwDtxjtU8OttoSeAZw3w1l7vhShHm8UAg=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Wed, 02 Sep 2026 23:32:54 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.1.8-build.11/TranscribeStation-Knob-Helper-0.1.1-2.zip" length="2964118" type="application/octet-stream" sparkle:edSignature="e1c8lzJvVvfMWXZbTpOnkFhIhtsRQelJeuvMlGtZe+H0FEUkERGCW3gdrr5xyKdKMybVaz71IoLwM3IaouulCQ=="/>
+            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.2.0-build.13/Transcribe-Dial-0.2.0-13.zip" length="3021065" type="application/octet-stream" sparkle:edSignature="ekigVIcy/SGBwNapZZtPH3oi4qUm0tRhD3IexHVe+aO8Mkrxg5xKIQ9Ea6AQ47MlOm8sgF6f1w4mQymWXGyAAQ=="/>
         </item>
     </channel>
 </rss>
