@@ -3,13 +3,13 @@
     <channel>
         <title>Transcribe Dial</title>
         <item>
-            <title>0.2.2</title>
-            <pubDate>Thu, 03 Sep 2026 00:31:18 +0200</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <title>0.2.4</title>
+            <pubDate>Thu, 03 Sep 2026 14:17:26 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.2.2-build.15/Transcribe-Dial-0.2.2-15.zip" length="3021710" type="application/octet-stream" sparkle:edSignature="hPIiQV/X+khk5LF+4wVCzT5NsD1eWEmjmF6dMVT/I3q2y3S78ZIYK8P9MS4nvuufSnZ5HuQ/Ld7HvEBZKD80BQ=="/>
+            <enclosure url="https://github.com/Videpro/transcribestation-knob-releases/releases/download/v0.2.4-build.17/Transcribe-Dial-0.2.4-17.zip" length="3109516" type="application/octet-stream" sparkle:edSignature="6QGPuqdvVDUdGIfsUkY7aBgI7QvaqbduDCE4awSKsFR86TxLbKUEt/WLWgoWuVOu7nYtkUA0VYon5mkSZYsZAg=="/>
         </item>
     </channel>
 </rss>
